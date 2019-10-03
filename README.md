@@ -10,12 +10,12 @@ If you find the work useful in your research, please consider citing:
 
         @inproceedings{DBLP:conf/icpp/CaoGGC19,
           author    = {Shiyi Cao and
-               Yuanning Gao and
-               Xiaofeng Gao and
-               Guihai Chen},
+                       Yuanning Gao and
+                       Xiaofeng Gao and
+                       Guihai Chen},
           title     = {AdaM: An Adaptive Fine-Grained Scheme for Distributed Metadata Management},
           booktitle = {Proceedings of the 48th International Conference on Parallel Processing,
-               {ICPP} 2019, Kyoto, Japan, August 05-08, 2019},
+                       {ICPP} 2019, Kyoto, Japan, August 05-08, 2019},
           pages     = {37:1--37:10},
           year      = {2019}
         }
